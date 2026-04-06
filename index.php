@@ -10,6 +10,10 @@
 <?php
 echo "Hello World!";
 ?>
+
+<?php
+echo "Inicio en PHP.";
+?>
     
 </body>
 </html>
